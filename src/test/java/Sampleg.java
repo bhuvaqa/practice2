@@ -5,6 +5,7 @@ public class Sampleg {
 		// TODO Auto-generated method stub
 System.out.println("Jesus saves.Trust God");
 System.out.println("hi");
+System.out.println("hello");
 	}
 
 }
